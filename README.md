@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ronibandini, writer, maker and musician from Buenos Aires, Argentina.
 - 👀 I like to make strange machines. I write tech related novels. I play in a funk band. I work with Machine Learning and Artificial Intelligence projects using Arduino and Raspberry Pi.
-- 💞️ I use C++, Python, PHP, old tales and 3d modeling.
+- 💞️ I use C++, Python, PHP, SQL, old tales, Tango mood and 3d modeling.
 - 📫 You can reach me at @RoniBandini
 
 <!---
