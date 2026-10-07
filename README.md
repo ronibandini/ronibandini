@@ -42,7 +42,7 @@ Machines that question conventional uses of technology: unnecessary devices, rep
 
 The book and framework behind the initiative.
 
-**[Download the PDF](https://github.com/ronibandini/ContraculturaMaker/raw/refs/heads/main/ContraculturaMaker2.pdf)**
+**[Download the PDF](https://github.com/ronibandini/ContraculturaMaker/blob/main/ContraculturaMakerV3.pdf)**
 
 ### Selected machines
 
