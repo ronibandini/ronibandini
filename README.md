@@ -1,7 +1,5 @@
 # Roni Bandini
 
-Maker Buenos Aires, Argentina
-
 I build experimental machines at the intersection of Machine Learning, physical computing, robotics, literature, electronic music and technological counterculture.
 
 Founder of [Contracultura Maker](https://github.com/ronibandini/ContraculturaMaker) — an initiative around technological autonomy, strange machines, hardware experimentation and critical approaches to technology.
@@ -18,7 +16,7 @@ Edge ML, TinyML, Computer Vision, audio classification, anomaly detection and AI
 
 Project | Description
 --- | ---
-🎧 [Reggaeton Be Gone](https://github.com/ronibandini/reggaetonBeGone) | Raspberry Pi audio classification with Edge Impulse
+🎧 [Reggaeton Be Gone](https://github.com/ronibandini/reggaetonBeGone) | experimental device that uses ML to detect reggaeton music playing nearby and automatically disrupt the targeted Bluetooth speaker
 🚦 [TI AM62A AI Traffic Light](https://github.com/ronibandini/TI_AM62A_Traffic_Light) | AI-driven traffic-light prototype with TI AM62A and Edge Impulse
 🏛️ [AI Asset Protection](https://github.com/ronibandini/AIAssetProtection) | Multimodal asset protection with sensors, Computer Vision and an AI agent
 🤟 [ASL Trainer](https://github.com/ronibandini/ASLTrainer) | American Sign Language trainer using Edge Impulse BYOM and TI AM62A
