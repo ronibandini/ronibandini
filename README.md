@@ -23,7 +23,7 @@ Project | Description
 👁️ [Visual Anomaly Grove V2](https://github.com/ronibandini/VisualAnomalyGroveV2) | Visual anomaly detection with FOMO-AD and Grove Vision AI V2
 🧍 [BT Fall](https://github.com/ronibandini/BTFall) | Worker fall detection using TinyML and Bluetooth
 ❤️ [HR / HRV](https://github.com/ronibandini/HR-HRV) | ECG stress classification using HR/HRV features and Edge Impulse
-🚪 [XIAO ESP32S3 ML Doorbell](https://github.com/ronibandini/XIAO_ESP32S3_ML_Doorbell) | FOMO face-detection doorbell with Telegram notifications
+🚪 [XIAO ESP32S3 ML Doorbell](https://github.com/ronibandini/xiaoesp32s3Sensedoorbell) | FOMO face-detection doorbell with Telegram notifications
 📚 [Reading Time](https://github.com/ronibandini/ReadingTime) | TinyML audio recognition of page turns to estimate remaining reading time
 ⚽ [Soccer Forecast](https://github.com/ronibandini/SoccerForecast) | Soccer outcome prediction on Arduino UNO R4 Minima
 👁️ [Visual Anomaly](https://github.com/ronibandini/VisualAnomaly) | FOMO-AD visual anomaly detection on TI TDA4VM
