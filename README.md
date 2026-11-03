@@ -28,7 +28,7 @@ Project | Description
 ⚽ [Soccer Forecast](https://github.com/ronibandini/SoccerForecast) | Soccer outcome prediction on Arduino UNO R4 Minima
 👁️ [Visual Anomaly](https://github.com/ronibandini/VisualAnomaly) | FOMO-AD visual anomaly detection on TI TDA4VM
 🔊 [Rubik Pi Audio Classification](https://github.com/ronibandini/RubikPiAudioClassification) | Audio Machine Learning with Rubik Pi and Edge Impulse
-📶 [Jev WiFi Analyzer](https://www.hackster.io/roni-bandini/jev-powered-wifi-analysis-tool-2bfd2c) | AI-powered WiFi analysis tool using ZimaBoard 2, Python and Jev
+📶 [Jev WiFi Analyzer](https://github.com/ronibandini/JevWiFiAnalyzer-) | AI-powered WiFi analysis tool using ZimaBoard 2, Python and Jev
 
 ---
 
