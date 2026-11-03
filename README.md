@@ -18,7 +18,7 @@ Project | Description
 --- | ---
 🎧 [Reggaeton Be Gone](https://github.com/ronibandini/reggaetonBeGone) | Experimental device that uses ML to detect reggaeton music playing nearby and automatically disrupt the targeted Bluetooth speaker
 🚦 [TI AM62A AI Traffic Light](https://github.com/ronibandini/TIAM62AITrafficLight) | AI-driven traffic-light prototype with TI AM62A and Edge Impulse
-🏛️ [AI Asset Protection](https://github.com/ronibandini/AIAssetProtection) | Multimodal asset protection with sensors, Computer Vision and an AI agent
+🏛️ [AI Asset Protection](https://github.com/ronibandini/AI-Asset-Protection) | Multimodal asset protection with sensors, Computer Vision and an AI agent
 🤟 [ASL Trainer](https://github.com/ronibandini/ASLTrainer) | American Sign Language trainer using Edge Impulse BYOM and TI AM62A
 👁️ [Visual Anomaly Grove V2](https://github.com/ronibandini/VisualAnomalyGroveV2) | Visual anomaly detection with FOMO-AD and Grove Vision AI V2
 🧍 [BT Fall](https://github.com/ronibandini/BTFall) | Worker fall detection using TinyML and Bluetooth
